@@ -48,6 +48,7 @@ Aplikasi manajemen e-commerce dengan fitur:
 - Form Events
 
 ## 📁 Struktur Project
+```
 EBusinessApp/ 
   ├── Models/ 
   │ ├── Enumerations.vb 
@@ -61,6 +62,7 @@ EBusinessApp/
   │ └── OrderForm.vb 
   ├── Dialogs/ 
   └── Program.vb
+```
 
 ## 🚀 Cara Menjalankan
 1. Buka Project di Visual Studio
